@@ -1,0 +1,12 @@
+{
+  "name": "stripe-payments",
+  "type": "backend",
+  "source": "slabtrack",
+  "extractedAt": "2026-01-08T13:05:46.313Z",
+  "files": [
+    "routes/stripe.js",
+    "routes/subscription.js",
+    "services/stripe.js",
+    "config/plans.js"
+  ]
+}

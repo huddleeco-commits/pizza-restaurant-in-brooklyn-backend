@@ -1,0 +1,10 @@
+{
+  "name": "marketplace",
+  "type": "backend",
+  "source": "ubg",
+  "extractedAt": "2026-01-08T13:05:46.378Z",
+  "files": [
+    "routes/marketplace.js",
+    "routes/trading.js"
+  ]
+}

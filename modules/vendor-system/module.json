@@ -1,0 +1,10 @@
+{
+  "name": "vendor-system",
+  "type": "backend",
+  "source": "slabtrack",
+  "extractedAt": "2026-01-08T13:05:46.328Z",
+  "files": [
+    "routes/vendor.js",
+    "routes/vendor-sales.js"
+  ]
+}

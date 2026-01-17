@@ -1,0 +1,12 @@
+{
+  "name": "notifications",
+  "type": "backend",
+  "source": "huddle",
+  "extractedAt": "2026-01-08T13:05:46.317Z",
+  "files": [
+    "routes/notifications.js",
+    "services/notification.js",
+    "services/email.js",
+    "models/Notification.js"
+  ]
+}

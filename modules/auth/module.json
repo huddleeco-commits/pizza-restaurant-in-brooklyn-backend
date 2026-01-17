@@ -1,0 +1,16 @@
+{
+  "name": "auth",
+  "type": "backend",
+  "source": "slabtrack",
+  "extractedAt": "2026-01-08T13:05:46.310Z",
+  "files": [
+    "routes/auth.js",
+    "middleware/auth.js",
+    "middleware/rateLimiter.js",
+    "models/User.js",
+    "services/password-reset.js"
+  ],
+  "dependencies": {
+    "express-rate-limit": "^7.1.5"
+  }
+}

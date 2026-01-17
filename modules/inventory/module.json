@@ -1,0 +1,10 @@
+{
+  "name": "inventory",
+  "type": "backend",
+  "source": "ubg",
+  "extractedAt": "2026-01-08T13:05:46.374Z",
+  "files": [
+    "routes/inventory.js",
+    "routes/items.js"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "booking",
+  "type": "backend",
+  "source": "healthcareos",
+  "extractedAt": "2026-01-08T13:05:46.321Z",
+  "files": [
+    "routes/booking.js",
+    "routes/services.js"
+  ]
+}
